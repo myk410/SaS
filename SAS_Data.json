@@ -7,7 +7,6 @@
 			{
 				"id":1,
 				"title":"Welcome",
-				"pic":"01_01",
                 "video1":"https://codewithchris.github.io/learningJSON/Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
 				"video2":"https://youtu.be/wkOfke3HSt0",
                 "video":"https://player.vimeo.com/external/519570528.hd.mp4?s=ee8836ddc8c5c31633c87d9b93bdbea8853bab4a&profile_id=175"
@@ -15,114 +14,159 @@
 			{
 				"id":2,
 				"title":"Stages of Typical Rescue",
-				"pic":"01_02",
 				"video1":"https://vimeo.com/519569952/57cd89c8f8",
                 "video":"https://player.vimeo.com/external/519569952.hd.mp4?s=4272a28bc252ab37666667b168422f9e24e567b5&profile_id=175"
 			},
 			{
 				"id":3,
 				"title":"Ways to Give Assistance",
-				"pic":"01_03",
 				"video":"https://player.vimeo.com/external/519569386.hd.mp4?s=8fe8a29a2c93193ebf07104cf4496adbdf4e6bcf&profile_id=175"
 			},
 			{
 				"id":4,
 				"title":"Contacting and Maneuvering",
-				"pic":"01_04",
 				"video":"https://player.vimeo.com/external/519568819.hd.mp4?s=d072d4e71de1475bc9f0cab0d687cbc062b20157&profile_id=175"
 			},
 			{
 				"id":5,
 				"title":"Towing",
-				"pic":"01_05",
 				"video":"https://player.vimeo.com/external/519568503.hd.mp4?s=7cb0a019bdb023f4ce3e132592c9a0dade81117b&profile_id=175"
 			}]
 	},
     {
         "id":2,
         "title":"Personal Safety Gear",
-        "pic":"02",
         "topics":[
             {
                 "id":1,
                 "title":"How to Stay Alive",
-                "pic":"02_01",
                 "video":"https://player.vimeo.com/external/519588506.hd.mp4?s=70a97388c61b0517bf75973d75db257b1bc4f4f7&profile_id=175"
             },
             {
                 "id":2,
                 "title":"Coast Guard Types",
-                "pic":"02_02",
                 "video":"https://player.vimeo.com/external/519587137.hd.mp4?s=47e50ccf05d58aa37f4031330dafd21a0007b15f&profile_id=175"
             },
             {
                 "id":3,
                 "title":"Inherently Buoyant",
-                "pic":"02_03",
                 "video":"https://player.vimeo.com/external/519585938.hd.mp4?s=01ca6222f792a113ce7915584fd87ab7972358de&profile_id=175"
             },
             {
                 "id":4,
                 "title":"Inflatable Life Jackets",
-                "pic":"02_04",
                 "video":"https://player.vimeo.com/external/519585485.hd.mp4?s=6c974a45f58e31c5d17da8ff14d1c1589fbf5cbe&profile_id=175"
             },
             {
                 "id":5,
                 "title":"What is a Life Jacket",
-                "pic":"02_05",
                 "video":"https://player.vimeo.com/external/519585094.hd.mp4?s=4e658176ef57c3cfce323ad335b7fd60dc4af942&profile_id=175"
             },
             {
                 "id":6,
                 "title":"What is a Life Jacket - Part 2",
-                "pic":"02_06",
                 "video":"https://player.vimeo.com/external/519583484.hd.mp4?s=a25e1fc49ac4c966c1d9c91b44e6ae4c96a89b85&profile_id=175"
             },
             {
                 "id":7,
                 "title":"What is a Life Jacket - Part 3",
-                "pic":"02_07",
                 "video":"https://player.vimeo.com/external/519579830.hd.mp4?s=d3c410a6ca4c1128cdd9864d3cdfbe903c1334f3&profile_id=175"            },
             {
                 "id":8,
                 "title":"What is a Life Jacket - Part 4",
-                "pic":"02_08",
                 "video":"https://player.vimeo.com/external/519578945.hd.mp4?s=76f5e2591d0d1f55994defc9012d12be6a5a31c9&profile_id=175"            },
             {
                 "id":9,
                 "title":"What is a Life Jacket - Part 5",
-                "pic":"02_09",
                 "video":"https://player.vimeo.com/external/519577725.hd.mp4?s=747e1c63e1aba68ba4222392660a2def8d9653aa&profile_id=175"            },
             {
                 "id":10,
                 "title":"What is a Life Jacket - Part 6",
-                "pic":"02_10",
                 "video":"https://player.vimeo.com/external/519577348.hd.mp4?s=fd190fac42ea0429283b09052a69c1e5a05cef11&profile_id=175"            },
             {
                 "id":11,
                 "title":"Leg Straps",
-                "pic":"02_11",
                 "video":"https://player.vimeo.com/external/519575434.hd.mp4?s=de604dab72911724aa6a032418e50946125dc5f6&profile_id=175"            },
             {
                 "id":12,
                 "title":"Safety Harnesses",
-                "pic":"02_12",
                 "video":"https://player.vimeo.com/external/519575150.hd.mp4?s=da9724a95abb1dd05a1e4d19e78f7843deb71c1f&profile_id=175"            },
             {
                 "id":13,
                 "title":"Tethers and Jacklines",
-                "pic":"02_13",
                 "video":"https://player.vimeo.com/external/519573967.hd.mp4?s=fcf949e382f571a053275d2ea82f1824bb092710&profile_id=175"            },
             {
                 "id":14,
                 "title":"Personal Signaling",
-                "pic":"02_14",
                 "video":"https://player.vimeo.com/external/519571487.hd.mp4?s=b8a4f1c04e4e81abce007881eb7ef39a4fa76a69&profile_id=175"            },
             {
                 "id":15,
                 "title":"Conclusion",
-                "pic":"02_15",
                 "video":"https://player.vimeo.com/external/519571052.hd.mp4?s=4c70d75774877ace57cb317d8e04bc26e45866c9&profile_id=175"            }]
+    },
+    {
+        "id":3,
+        "title":"Crew Overboard",
+        "topics":[
+            {
+                "id":1,
+        	"title":"Introduction",
+                "video":"https://player.vimeo.com/external/519603968.hd.mp4?s=faa5a2136b5a5bf486b5ab04d3bf07901667724c&profile_id=175"
+            },
+            {
+                "id":2,
+        	"title":"Prevention",
+                "video":"https://player.vimeo.com/external/519602639.hd.mp4?s=5c23e0b52a12902ea17e41a1bfa9bb23c2dfee06&profile_id=175"            
+            },
+            {
+                "id":3,
+        	"title":"Challenges",
+                "video":"https://player.vimeo.com/external/519601981.hd.mp4?s=5c1926527e190ac5d02d2e0bdea9fa5f2dbcf5a5&profile_id=175"            
+            },
+            {
+                "id":4,
+        	"title":"Good Victim",
+                "video":"https://player.vimeo.com/external/519600547.hd.mp4?s=edbbf4e7ce05a2adb8c33221379cb78864debe08&profile_id=175"            
+            },
+            {
+                "id":5,
+        	"title":"Initial Responses",
+                "video":"https://player.vimeo.com/external/519599154.hd.mp4?s=38e1c84e212e2f6936dfee3fda8885ced9bf3fa7&profile_id=175"            
+            },
+            {
+                "id":6,
+        	"title":"Crewed Maneuvers",
+                "video":"https://player.vimeo.com/external/519597887.hd.mp4?s=eca8f1c4fc67d3d6c7d484ae07416d4cbd8be3ce&profile_id=175"            
+            },
+            {
+                "id":7,
+        	"title":"Singlehanded",
+                "video":"https://player.vimeo.com/external/519594548.hd.mp4?s=767599ffa4ca70fd1db8141c9dedd16d1d79d27e&profile_id=175"            
+	    },
+            {
+                "id":8,
+        	"title":"Downwind Maneuvers",
+                "video":"https://player.vimeo.com/external/519597574.hd.mp4?s=b227e983791c37bd2037fffad85cdfbc4c92df3c&profile_id=175"            
+	    },
+            {
+                "id":9,
+        	"title":"Gear that is Helpful",
+                "video":"https://player.vimeo.com/external/519593488.hd.mp4?s=58d4c7f26134f0bb6e308dbecd1bd997145b4d98&profile_id=175"            
+	    },
+            {
+                "id":10,
+        	"title":"Reboarding the Victim",
+                "video":"https://player.vimeo.com/external/519592619.hd.mp4?s=644e88b097d82861c40e93e261a19181d0c96f41&profile_id=175"            
+	    },
+            {
+                "id":11,
+        	"title":"Beacons and Signaling",
+                "video":"https://player.vimeo.com/external/519591305.hd.mp4?s=ecdfdaf02d312752c22c8c96c6dcfc63925158cb&profile_id=175"            
+	    },
+            {
+                "id":12,
+        	"title":"Conclusion",
+                "video":"https://player.vimeo.com/external/519590891.hd.mp4?s=7ba64d4fe75b71e95ff2c4f854888944709e6036&profile_id=174"            
+	    }]
     }
 ]
